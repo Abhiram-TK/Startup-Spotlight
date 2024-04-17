@@ -1,4 +1,3 @@
-
 # Startup Spotlight: Illuminating Unicorn Metrics
 
 ### Dashbaord Link
@@ -45,7 +44,7 @@ Investors, entrepreneurs, and stakeholders within the startup ecosystem seek act
 
 Develop a robust data visualization and analysis framework leveraging advanced Power BI capabilities. The solution will integrate interactive visualizations, dynamic slicers, and insightful narratives to deliver actionable insights tailored to the needs of stakeholders. By providing a comprehensive view of unicorn companies' dynamics and trends, the solution aims to drive strategic decision-making and facilitate success within the dynamic startup ecosystem.
 
-## Project Overview
+## Dashbaord Overview
 
 The analysis of unicorn companies provides valuable insights into the dynamic landscape of high-growth startups, their market valuation, geographical distribution, and industry trends. Leveraging Power BI's visualization capabilities, the project explores key metrics and trends, offering stakeholders a comprehensive understanding of the unicorn ecosystem.
 
