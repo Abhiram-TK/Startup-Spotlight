@@ -1,7 +1,9 @@
 
 # Startup Spotlight: Illuminating Unicorn Metrics
 
-### Dashbaord Link: https://app.powerbi.com/view?r=eyJrIjoiNmU2NjU0Y2MtYmMzMy00OWY0LWI1YjgtMzdlYjM4ZTA2MTQyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection
+### Dashbaord Link
+
+https://app.powerbi.com/view?r=eyJrIjoiNmU2NjU0Y2MtYmMzMy00OWY0LWI1YjgtMzdlYjM4ZTA2MTQyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection
 
 ✨ Feel free to explore!
 
@@ -49,7 +51,8 @@ The analysis of unicorn companies provides valuable insights into the dynamic la
 
 ### Report Snapshot (Power BI Desktop)
 
-
+![Screenshot 2024-04-12 114909](https://github.com/Abhiram-TK/Startup-Spotlight/assets/158244906/be0938a4-65fd-4851-8233-3e9a61cc7733)
+![Screenshot 2024-04-17 115749](https://github.com/Abhiram-TK/Startup-Spotlight/assets/158244906/9925dd0f-ae52-4ab9-a5cf-3bc89216edc8)
 
 ### Key Findings:
 
