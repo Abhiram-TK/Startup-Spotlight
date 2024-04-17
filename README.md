@@ -10,7 +10,7 @@ https://app.powerbi.com/view?r=eyJrIjoiNmU2NjU0Y2MtYmMzMy00OWY0LWI1YjgtMzdlYjM4Z
 
 Investors, entrepreneurs, and stakeholders within the startup ecosystem seek actionable insights into the dynamics and trends of unicorn companies worldwide. While understanding the valuation of these companies is crucial, it's equally essential to grasp the underlying factors driving their growth and market positioning. However, current data visualization and analysis frameworks lack the necessary dynamism and granularity to provide comprehensive insights into the unicorn landscape.
 
-### Key Objectives:
+### Key Objectives
 
 📊 **Develop a dynamic dashboard featuring key metrics:**
 - Total valuation with year-on-year changes.
@@ -34,13 +34,13 @@ Investors, entrepreneurs, and stakeholders within the startup ecosystem seek act
 - Maps displaying company count and valuation sum by city location.
 - Tables ranking top countries and cities by valuation.
 
-### Expected Outcomes:
+### Expected Outcomes
 
 - Empower stakeholders with actionable insights for informed decision-making.
 - Facilitate investment allocation, market entry strategies, and industry positioning.
 - Provide a holistic view of the unicorn landscape to identify emerging opportunities and mitigate risks effectively.
 
-### Proposed Solution:
+### Proposed Solution
 
 Develop a robust data visualization and analysis framework leveraging advanced Power BI capabilities. The solution will integrate interactive visualizations, dynamic slicers, and insightful narratives to deliver actionable insights tailored to the needs of stakeholders. By providing a comprehensive view of unicorn companies' dynamics and trends, the solution aims to drive strategic decision-making and facilitate success within the dynamic startup ecosystem.
 
@@ -53,7 +53,7 @@ The analysis of unicorn companies provides valuable insights into the dynamic la
 ![Screenshot 2024-04-12 114909](https://github.com/Abhiram-TK/Startup-Spotlight/assets/158244906/be0938a4-65fd-4851-8233-3e9a61cc7733)
 ![Screenshot 2024-04-17 115749](https://github.com/Abhiram-TK/Startup-Spotlight/assets/158244906/9925dd0f-ae52-4ab9-a5cf-3bc89216edc8)
 
-### Key Findings:
+### Key Findings
 
 📈 **Valuation Trends:**
 - The dynamic cards showcase the total valuation, number of companies, countries, and cities, along with year-on-year changes, providing a snapshot of the unicorn landscape's growth and evolution.
@@ -67,7 +67,7 @@ The analysis of unicorn companies provides valuable insights into the dynamic la
 - The map visualization illustrates the distribution of unicorn companies and their total valuation across different cities, emphasizing major innovation hubs such as San Francisco, Beijing, and New York.
 - Top 10 Countries and Cities by Valuation highlight the global nature of unicorn ecosystems, with the United States, China, and key metropolitan centers leading in terms of total valuation.
 
-### Implications and Insights:
+### Implications and Insights
 
 - The analysis underscores the transformative impact of unicorn companies on global innovation, economic growth, and industry disruption.
 - Stakeholders can leverage these insights to make informed decisions regarding investment strategies, market expansion, and industry partnerships.
@@ -77,7 +77,7 @@ The analysis of unicorn companies provides valuable insights into the dynamic la
 
 In conclusion, the Power BI dashboard provides a comprehensive view of unicorn companies, their valuation dynamics, industry preferences, and geographical distribution. By distilling complex data into actionable insights, the analysis empowers stakeholders to capitalize on emerging opportunities and navigate challenges in the dynamic world of high-growth startups.
 
-## Contact Information:
+## Contact Information
 
 ❤️ Connect with me on [LinkedIn](#insert_linkedin_profile_link_here). 
 
