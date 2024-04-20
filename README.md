@@ -65,6 +65,6 @@ Startup Spotlight's Power BI dashboard offers a holistic view of unicorn compani
 
 ## Contact Information
 
-❤️ Connect with me on [LinkedIn](#insert_linkedin_profile_link_here). 
+❤️ Connect with me on [LinkedIn](https://www.linkedin.com/in/abhiramtk). 
 
 🌟 Thank you for your interest in Startup Spotlight. Looking forward to connecting with you!
